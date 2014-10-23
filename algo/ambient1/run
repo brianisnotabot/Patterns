@@ -1,0 +1,30 @@
+use 5.010;
+use strict;
+
+sub pickFromDir
+{
+    my $dirPath = $_[0];
+    my $file = `ls $dirPath| shuf -n 1`;
+    chomp($file);
+    return "$dirPath/$file";
+}
+
+my $KEYS = &pickFromDir("../../instr/keys");
+my $CLUSTER = &pickFromDir("../../clusters");
+
+my %VARIABLES = (
+"KEYS" => $KEYS,
+"CLUSTER" => $CLUSTER,
+"OUTFILE" => "output.wav",
+"CSD_NAME" => "out.csd"
+"SR" => "44100"
+);
+
+my $MAKE = "make all ";
+foreach my $KEY(keys %VARIABLES)
+{
+    $MAKE .= $KEY."=$VARIABLES{$KEY} ";
+}
+print $MAKE;
+system($MAKE);
+
