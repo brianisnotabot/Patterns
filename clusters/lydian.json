@@ -1,0 +1,5 @@
+{
+"name":"Lydian",
+"description":"A lydian sort of cluster", 
+"notes":[0, 2, 4, 6, 7, 9, 14]
+}
