@@ -5,7 +5,7 @@ ipal ftgenonce 0, 0, 4096, -12, 20
 ishift      =           .00666667               
 ipch        =           cpsmidinn(p4)          
 ioct        =           octmidinn(p4)         
-iamp        =           p5 * 0.6
+iamp        =           p5 * 0.3
 aadsr       linsegr     0, p3/3, 1.0, p3/3, 1.0, p3/3, 0 
 amodi       linseg      0, p3/3, 5, p3/3, 3, p3/3, 0 
 amodr       linseg      1.7, p3, 0.5             
