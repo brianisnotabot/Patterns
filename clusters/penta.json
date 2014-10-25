@@ -1,0 +1,5 @@
+{
+"name":"Pentatonic",
+"description":"A pentatonic scale, 2 octaves",
+"notes":[0, 2, 4, 7, 9, 12, 14, 16, 19, 21, 24]
+}
