@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "location": "res/samples/speech/rules_of_robotics.wav",
+  "res": "",
+  "categories": [
+    "speech"
+  ],
+  "text": "A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n\nA robot must obey the orders given to it by human beings, except where such orders would conflict with the First Law.\n\nA robot must protect its own existence as long as such protection does not conflict with the First or Second Law.\n"
+}
