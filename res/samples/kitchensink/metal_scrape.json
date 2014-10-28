@@ -1,0 +1,10 @@
+{
+  "name": "metal_scrape",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

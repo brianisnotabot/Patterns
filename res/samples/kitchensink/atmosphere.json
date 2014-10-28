@@ -1,0 +1,10 @@
+{
+  "name": "atmosphere",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

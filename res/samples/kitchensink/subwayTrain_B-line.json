@@ -1,0 +1,10 @@
+{
+  "name": "subwayTrain_B-line",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

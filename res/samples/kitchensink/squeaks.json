@@ -1,0 +1,10 @@
+{
+  "name": "squeaks",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}
