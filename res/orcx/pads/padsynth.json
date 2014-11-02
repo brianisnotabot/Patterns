@@ -1,0 +1,11 @@
+{
+  "name": "padsynth",
+  "location": "res/orcx/pads",
+  "res": [
+
+  ],
+  "categories": [
+    "padsynth",
+    "orcx"
+  ]
+}
