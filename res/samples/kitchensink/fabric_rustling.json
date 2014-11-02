@@ -1,0 +1,10 @@
+{
+  "name": "fabric_rustling",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

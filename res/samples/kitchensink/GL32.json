@@ -1,0 +1,10 @@
+{
+  "name": "GL32",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ratchet",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

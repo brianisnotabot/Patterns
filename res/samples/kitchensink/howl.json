@@ -1,0 +1,10 @@
+{
+  "name": "howl",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

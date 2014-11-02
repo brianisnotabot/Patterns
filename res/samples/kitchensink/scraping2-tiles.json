@@ -1,0 +1,10 @@
+{
+  "name": "scraping2-tiles",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}

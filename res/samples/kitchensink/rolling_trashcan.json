@@ -1,0 +1,10 @@
+{
+  "name": "rolling_trashcan",
+  "location": "res/samples/kitchensink",
+  "res": [
+
+  ],
+  "categories": [
+    "kitchensink"
+  ]
+}
